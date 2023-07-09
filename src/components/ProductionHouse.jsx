@@ -1,5 +1,5 @@
 import React from "react";
-import disney from "./../assets/Images/movieera.png";
+import disney from "../assets/Images/movieera.png";
 import marvel from "./../assets/Images/marvel.png";
 import nationalG from "./../assets/Images/geographic.png";
 import pixar from "./../assets/Images/pixar.png";
